@@ -1,0 +1,2 @@
+ofxEliza-master
+ofxSpeech-master
